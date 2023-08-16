@@ -4,7 +4,7 @@ description         : >
                       Code Curiosity, Gaming Glee, and a Melodic Twist - Embarking on a Journey to Software Sorcery!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : muizzyranking/muizzyranking.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : Muizzyranking/theme
+remote_theme        : Muizzyranking/portfolioYoutheme
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
