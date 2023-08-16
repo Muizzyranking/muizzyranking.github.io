@@ -3,7 +3,7 @@
  tags: [Grit, Growth Mindset]
  style: fill 
  color: primary
- ---
+---
 
 Hey there, fellow coders and curious minds! 🚀 Welcome to my personal corner of the internet where we're going to talk about something that's close to my heart and crucial for our software engineering journey – grit and growth mindset. So, grab your favorite drink and let's dive in!
 
