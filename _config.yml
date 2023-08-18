@@ -11,6 +11,7 @@ open_new_tab        : true                             # Opens external URLs in 
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
