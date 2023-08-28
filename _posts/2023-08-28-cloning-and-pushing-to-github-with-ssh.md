@@ -5,7 +5,6 @@ style: fill
 color: warning
 ---
 
-
 Have you ever stumbled upon a discovery that felt like finding a hidden treasure? Well, that's precisely how I felt when I recently learned how to use SSH to clone and push to GitHub repositories. As someone relatively new to the world of software engineering, this newfound knowledge brought a wave of excitement.
 
 Not too long ago, I found myself on GitHub's remote shores, wrestling with the process of pushing code using HTTPS and personal access tokens. Copying and pasting tokens every time felt like sending secret messages to a digital fortress. And then, a fellow developer mentioned SSH as a solution. It was as if a secret door to a treasure trove had been revealed. SSH—short for Secure Shell—promised convenience and security, and I was all ears.
@@ -71,19 +70,19 @@ Now go to this URL [https://github.com/settings/keys](https://github.com/setting
 
 Or you can navigate manually by clicking your profile icon on the top right corner and clicking settings in the dropdown.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245508909/196cacd6-6aaa-4f41-9359-d557555932ce.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245508909/196cacd6-6aaa-4f41-9359-d557555932ce.png?auto=compress,format&format=webp)
 
 Click on "SSH and GPG keys on the left panel.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245564496/e97112a4-edd3-46a2-ae1d-80d0da05a187.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245564496/e97112a4-edd3-46a2-ae1d-80d0da05a187.png?auto=compress,format&format=webp")
 
 Click on "New SSH"
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245606975/67711c41-ae42-4839-a72f-38d042fa0db6.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245606975/67711c41-ae42-4839-a72f-38d042fa0db6.png?auto=compress,format&format=webp)
 
 Give it a title of your choice and leave the key type as "authentication key". Paste the key you copied in the "Key" section.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245714215/30269d76-cfa0-4387-9bf1-bf3089895ca7.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693245714215/30269d76-cfa0-4387-9bf1-bf3089895ca7.png?auto=compress,format&format=webp)
 
 Click on "Add SSH" key button and voila, you can now clone your repository with SSH.
 
