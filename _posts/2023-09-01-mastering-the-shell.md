@@ -5,7 +5,6 @@ style: fill
 color: info
 ---
 
-
 Hello, fellow tech enthusiasts, and welcome to my corner of the digital universe! If you're here, you're probably curious about the command-line interface, also known as the shell, and how it can empower your software engineering journey. Well, you're in luck, because in this epic guide, we're going to dive deep into the world of shells, exploring everything from the basics to advanced techniques. So, grab your favorite beverage, settle into your coding chair, and let's embark on this thrilling adventure together!
 
 ## Getting Started with Shells
@@ -76,8 +75,8 @@ ls
 
 Within this labyrinth of directories, you'll encounter two special guides: `.` and `..`. Think of `.` as the current page in your book and `..` as the previous one. They function as shortcuts, enabling you to navigate swiftly without typing out lengthy directory paths. For instance, to move up one level in the directory hierarchy, you'd use `..`:
 
-```ruby
-bashCopy codecd ..
+```bash
+cd ..
 ```
 
 ### Grasping the Concept of Working Directory, Root Directory, and Home Directory
