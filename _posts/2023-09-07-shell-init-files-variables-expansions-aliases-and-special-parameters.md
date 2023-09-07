@@ -2,10 +2,8 @@
 title: Understanding Shell, Init Files, Variables, Expansions, Aliases, and Special Parameters in Linux
 tags: [Shell, Linux]
 style: fill
-color: light 
+color: dark
 ---
-
-## **Unlocking the Secrets of the Linux Shell**
 
 Greetings, fellow explorers of the Linux shell! If you've been following our journey, you're already familiar with the incredible world of shell redirections, filters, and system files. If not, no worries; you can catch up on those essentials anytime you like.
 
